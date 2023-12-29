@@ -1,0 +1,22 @@
+.header{
+    background-color: maroon;
+    width: 85%;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;   
+    margin-top: auto;
+}
+
+/* .logo{
+    width: 10%;
+    height: 10%;
+} */
+
+.home{
+    display: flex;
+}
+
+.home_1{
+    padding: 10px;
+}
