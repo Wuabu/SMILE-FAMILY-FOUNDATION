@@ -1,20 +1,28 @@
+.section_1{
+    background-image: url(/img/image.png);
+    width: auto;
+    max-width: auto;
+    height: 800px;
+}
+
 .header{
-    background-color: maroon;
-    width: 85%;
-    height: 50px;
+    /* background-color: maroon; */
+    /* width: 85%;
+    height: 50px; */
     margin: auto;
     display: flex;
     justify-content: space-between;   
     margin-top: auto;
 }
 
-/* .logo{
-    width: 10%;
-    height: 10%;
-} */
+.logo{
+    width: 75px;
+    height: 70px;
+}
 
 .home{
     display: flex;
+    color: white;
 }
 
 .home_1{
