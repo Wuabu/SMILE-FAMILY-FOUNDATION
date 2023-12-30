@@ -1,14 +1,11 @@
 .section_1{
-    background-image: url(/img/image.png);
-    width: auto;
-    max-width: auto;
+    background-image: url(/img/IMG_20231129_211432_501.jpg);
+    /* width: auto; */
+    /* max-width: auto; */
     height: 800px;
 }
 
 .header{
-    /* background-color: maroon; */
-    /* width: 85%;
-    height: 50px; */
     margin: auto;
     display: flex;
     justify-content: space-between;   
@@ -16,15 +13,28 @@
 }
 
 .logo{
-    width: 75px;
-    height: 70px;
+    width: 100px;
+    height: 75px;
+    margin-left: 50px;
 }
 
 .home{
     display: flex;
-    color: white;
+    margin-right: 50px;
 }
 
 .home_1{
     padding: 10px;
+}
+
+a:hover{
+    color: crimson;
+}
+
+h1{
+    text-align: center;
+}
+
+.section_2{
+    
 }
